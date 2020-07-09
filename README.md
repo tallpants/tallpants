@@ -1,7 +1,5 @@
 ### Hello 👋
 
-[![HitCount](http://hits.dwyl.com/tallpants/tallpants.svg)](http://hits.dwyl.com/tallpants/tallpants)
-
 - 👨‍💻 I work with React, React Native and cloud / serverless stuff on AWS.
 - 🎤 Occasional speaker at AWS and React conferences / meetups.
 - 🔭 Currently at [Branch Insurance](https://ourbranch.com).
@@ -9,3 +7,5 @@
 - 🐦 [@TheTallpants](https://twitter.com/TheTallpants) on Twitter.
 - 💼 [adithyakreddy](https://www.linkedin.com/in/adithyakreddy/) on LinkedIn.
 - ✉️ Or email me at [adithyakreddy6@gmail.com](mailto:adithyakreddy6@gmail.com).
+
+[![HitCount](http://hits.dwyl.com/tallpants/tallpants.svg)](http://hits.dwyl.com/tallpants/tallpants)

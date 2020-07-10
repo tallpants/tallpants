@@ -1,5 +1,3 @@
-### Hello 👋
-
 - 👨‍💻 I do React, React Native and cloud / serverless stuff on AWS.
 - 🎤 Occasional speaker at AWS and React conferences / meetups.
 - 🔭 Currently at [Branch Insurance](https://ourbranch.com).

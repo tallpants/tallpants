@@ -1,6 +1,6 @@
 ### Hello 👋
 
-- 👨‍💻 I work with React, React Native and cloud / serverless stuff on AWS.
+- 👨‍💻 I do React, React Native and cloud / serverless stuff on AWS.
 - 🎤 Occasional speaker at AWS and React conferences / meetups.
 - 🔭 Currently at [Branch Insurance](https://ourbranch.com).
 - 🏙️ Live in [Bangalore](https://goo.gl/maps/E7sEZn14SmkaVhBbA) but work remote. 🌎

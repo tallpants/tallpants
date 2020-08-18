@@ -4,4 +4,4 @@
 - 🏙️ Live in [Bangalore](https://goo.gl/maps/E7sEZn14SmkaVhBbA) but work remote. 🌎
 - 🐦 [Twitter @TheTallpants](https://twitter.com/TheTallpants)
 - 💼 [LinkedIn](https://www.linkedin.com/in/adithyakreddy/)
-- ✉️ [adithyakreddy6@gmail.com](mailto:adithyakreddy6@gmail.com).
+- ✉️ [adithya@adithyareddy.com](mailto:adithya@adithyareddy.com).

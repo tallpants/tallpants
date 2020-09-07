@@ -1,5 +1,8 @@
 - 👨‍💻 I do React, React Native and cloud / serverless stuff on AWS.
 - 🎤 Occasional speaker at AWS and React conferences / meetups.
+  - Strongly Typed Transactional State Management with mobx-state-tree - React Meetup at Microsoft, Bangalore 2018 [[slides](https://www.slideshare.net/AdithyaReddy35/strongly-typed-transactional-state-management-with-mobxstatetree)]
+  - AppSync in the Real World - AWS Community Day Bangalore 2018 [[slides](https://www.slideshare.net/AWSUsersGroupBengalu/appsync-in-real-world-pitfalls-unexpected-benefits-lessons-learnt)]
+  - Refactoring to Serverless - AWS Community Day Bangalore 2019 [[slides](https://www.slideshare.net/AWSUsersGroupBengalu/refactoring-to-serverless)]
 - 🔭 Currently at [Branch Insurance](https://ourbranch.com).
 - 🏙️ Live in [Bangalore](https://goo.gl/maps/E7sEZn14SmkaVhBbA) but work remote. 🌎
 - 🐦 [Twitter @TheTallpants](https://twitter.com/TheTallpants)

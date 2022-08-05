@@ -1,5 +1,5 @@
-- 👨‍💻 I do React, React Native and cloud / serverless stuff on AWS.
-- 🎤 Occasional speaker at AWS and React conferences / meetups.
+- 👨‍💻 I do React, React Native and cloud / serverless stuff on AWS
+- 🎤 Occasional speaker at AWS and React conferences / meetups
 - 🔭 SDE3 / Development Manager at [Branch Insurance](https://ourbranch.com)
 - 🌎 Live in [Columbus, OH](https://goo.gl/maps/1kCe7iR6vdQ4Ey4T6)
 - 🐦 [Twitter: @TheTallpants](https://twitter.com/TheTallpants)

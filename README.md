@@ -1,4 +1,4 @@
-- 👨‍💻 I do React, React Native and cloud / serverless stuff on AWS
+- 👨‍💻 I do React, React Native, Ionic / Capacitor, and cloud / serverless stuff on AWS
 - 🎤 Occasional speaker at AWS and React conferences / meetups
 - 🔭 SDE4 / Development Manager at [Branch Insurance](https://ourbranch.com)
 - 🌎 Live in [Columbus, OH 🇺🇸](https://goo.gl/maps/1kCe7iR6vdQ4Ey4T6) - from [Bangalore, India 🇮🇳](https://goo.gl/maps/AXY5FAcUkPLzyr7i7)

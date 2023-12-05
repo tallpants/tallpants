@@ -2,5 +2,5 @@
 - 🎤 Occasional speaker at AWS and React conferences / meetups
 - 🔭 SDE4 / Development Manager at [Branch Insurance](https://ourbranch.com)
 - 🌎 Live in [Columbus, OH 🇺🇸](https://goo.gl/maps/1kCe7iR6vdQ4Ey4T6) - from [Bangalore, India 🇮🇳](https://goo.gl/maps/AXY5FAcUkPLzyr7i7)
-- 💼 [LinkedIn: adithyakreddy](https://www.linkedin.com/in/adithyakreddy/)
+- 💼 [LinkedIn: adithyareddy1](https://www.linkedin.com/in/adithyareddy1/)
 - ✉️ [Email: adithya@adithyareddy.com](mailto:adithya@adithyareddy.com)

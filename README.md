@@ -1,6 +1,6 @@
 - 👨‍💻 I do React, React Native, Ionic / Capacitor, and cloud / serverless stuff on AWS
 - 🎤 Occasional speaker at AWS and React conferences / meetups
 - 🔭 SDE4 / Engineering Manager at [Branch Insurance](https://ourbranch.com)
-- 🌎 Live in [Columbus, OH 🇺🇸](https://goo.gl/maps/1kCe7iR6vdQ4Ey4T6) - from [Bangalore, India 🇮🇳](https://goo.gl/maps/AXY5FAcUkPLzyr7i7)
+- 🌎 In [Columbus, OH 🇺🇸](https://goo.gl/maps/1kCe7iR6vdQ4Ey4T6) - from [Bengaluru 🇮🇳](https://goo.gl/maps/AXY5FAcUkPLzyr7i7)
 - 💼 [LinkedIn: adithyareddy1](https://www.linkedin.com/in/adithyareddy1/)
 - ✉️ [Email: adithya@adithyareddy.com](mailto:adithya@adithyareddy.com)

@@ -1,4 +1,4 @@
-- 👨‍💻 I do React, React Native, Ionic / Capacitor, and cloud / serverless stuff
+- 👨‍💻 In the messy middle of product engineering
 - 🎤 Occasional speaker at AWS and React conferences / meetups
 - 🔭 At [Branch Insurance](https://ourbranch.com)
 - 🌎 In [Columbus, OH 🇺🇸](https://goo.gl/maps/1kCe7iR6vdQ4Ey4T6) - from [Bengaluru 🇮🇳](https://goo.gl/maps/AXY5FAcUkPLzyr7i7)
